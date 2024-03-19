@@ -10,21 +10,11 @@
 
 <center>Fig1 : Macrophage colonies (left) & SCLA-A cancer cell colonies (right)</center>
 
-<br><br>
-
 <br>
 
-This repository includes  codes and data example **(Colony Part)** used in the "Spatial evolution and colony landscape of small cell lung cancer" paper.
-
-
-
-<br><br>
+This repository includes  codes and data example **(Colony Part)** used in the 'Spatial evolution and colony landscape of small cell lung cancer' paper.
 
 <br>
-
-[TOC]
-
-<br><br>
 
 <br>
 
