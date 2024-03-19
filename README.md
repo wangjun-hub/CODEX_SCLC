@@ -2,7 +2,7 @@
 
 
 
-
+<br><br>
 
 <img src="./img/Fig 1.jpg" alt="Fig 1" style="zoom:100%;" />
 
@@ -10,23 +10,31 @@
 
 <center>Fig1 : Macrophage colonies (left) & SCLA-A cancer cell colonies (right)</center>
 
+<br><br>
 
+<br>
 
 This repository includes  codes and data example **(Colony Part)** used in the "Spatial evolution and colony landscape of small cell lung cancer" paper.
 
 
 
+<br><br>
 
+<br>
 
 [TOC]
+
+<br><br>
+
+<br>
 
 ## Summary📖
 
 Structured cell colonies (CC) and dispersed cells within tissues exhibit distinctly different physiological functions. In situ CCs, coordinated with homogeneous cells, have proven to be invaluable for histopathological detection and diagnosis. Cell neighborhood method clustering cell composition to cell pattern (CN) by traversal small regional tissue. In contrast, the colony perspective excels at pinpointing intercellular boundary and interactions regions. To analyze cell colonies in CODEX data, we developed ColonyMap, a spatial cell colony analysis algorithm.
 
+<br><br>
 
-
-
+<br>
 
 ## Requirements🌸
 
@@ -44,19 +52,21 @@ Structured cell colonies (CC) and dispersed cells within tissues exhibit distinc
 
 - [ ] spatstat (version 3.0_6)
 
-
+<br><br>
 
 ☞ More details in **requirements.txt**
 
 
 
+<br><br>
 
+<br>
 
 ## Usage👻
 
 To run this analysis pipline, you need to first create a python virtual environment (Python : 3.8.17 & R : 4.3.1) where you can install all the required packages. If you are using the conda platform to create your virtual environment. These are the steps you need to follow.
 
-
+<br>
 
 #### Virtual environment construction
 
@@ -76,7 +86,7 @@ conda activate [virtual_environment_name]
 
 Once you have the `[virtual_environment_name]` ready, you can run all scripts!
 
-
+<br>
 
 #### Script Description
 
@@ -94,7 +104,7 @@ python Colony_recognition.py "../data"
 
 It takes approximately 20 seconds to identify the contours of all cell types on an image of approximately 40000 cells. (Computing machine: Macbook Air  M1 core)
 
-
+<br><br>
 
 ●`Colony_show.py`  is used to display the spatial distribution of  cellt colonies , such as macrophage colonies.
 
@@ -110,13 +120,17 @@ python Colony_macrophage_show.py "../data"
 
 It takes only 1 second to visualize the macrophage colonies on an image. (Computing machine: Macbook Air  M1 core)
 
+<br>
+
 
 
 <img src="./img/Fig 2.jpg" alt="Fig 2" style="zoom:100%;" />
 
-- <center>Fig2 : Macrophage colonies (left) & SCLA-A cancer cell colonies (right)</center>
 
-  
+
+<center>Fig2 : Macrophage colonies (left) & SCLA-A cancer cell colonies (right)</center>
+
+<br><br>
 
 
 
@@ -126,7 +140,7 @@ It takes only 1 second to visualize the macrophage colonies on an image. (Comput
 Rscript Subburst_Chart.R 
 ```
 
-
+<br>
 
 
 
@@ -134,7 +148,7 @@ Rscript Subburst_Chart.R
 
 <center>Fig3 : The interaction intensity in different immune celltypes</center>
 
-
+ <br><br>
 
 ☞  You can scan this file for dynamic click interaction  [Subburst_Chart.html](result/Subburst_Chart.html) 
 
