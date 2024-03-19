@@ -12,6 +12,8 @@
 
 <br>
 
+<br>
+
 This repository includes  codes and data example **(Colony Part)** used in the 'Spatial evolution and colony landscape of small cell lung cancer' paper.
 
 <br>
@@ -23,8 +25,6 @@ This repository includes  codes and data example **(Colony Part)** used in the '
 Structured cell colonies (CC) and dispersed cells within tissues exhibit distinctly different physiological functions. In situ CCs, coordinated with homogeneous cells, have proven to be invaluable for histopathological detection and diagnosis. Cell neighborhood method clustering cell composition to cell pattern (CN) by traversal small regional tissue. In contrast, the colony perspective excels at pinpointing intercellular boundary and interactions regions. To analyze cell colonies in CODEX data, we developed ColonyMap, a spatial cell colony analysis algorithm.
 
 <br><br>
-
-<br>
 
 ## Requirements🌸
 
@@ -42,15 +42,11 @@ Structured cell colonies (CC) and dispersed cells within tissues exhibit distinc
 
 - [ ] spatstat (version 3.0_6)
 
-<br><br>
+<br>
 
 ☞ More details in **requirements.txt**
 
-
-
 <br><br>
-
-<br>
 
 ## Usage👻
 
@@ -94,7 +90,7 @@ python Colony_recognition.py "../data"
 
 It takes approximately 20 seconds to identify the contours of all cell types on an image of approximately 40000 cells. (Computing machine: Macbook Air  M1 core)
 
-<br><br>
+<br>
 
 ●`Colony_show.py`  is used to display the spatial distribution of  cellt colonies , such as macrophage colonies.
 
