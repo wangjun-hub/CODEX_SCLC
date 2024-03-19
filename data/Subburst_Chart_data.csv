@@ -1,0 +1,68 @@
+label,parent,value
+B cell,Immune,0
+CTL,Immune,0
+Dendritic cell,Immune,0
+Macrophage,Immune,0
+Neutrophil,Immune,0
+NK cell,Immune,0
+NK-like T,Immune,0
+T helper,Immune,0
+T other,Immune,0
+T reg,Immune,0
+B cell_CTL,B cell,53367.69058
+B cell_Macrophage,B cell,37491.32444
+B cell_Others,B cell,43944.12677
+B cell_T helper,B cell,59172.24215
+B cell_T other,B cell,36119.13004
+CTL_B cell,CTL,53367.69058
+CTL_Macrophage,CTL,101434.2664
+CTL_NK cell,CTL,36424.18852
+CTL_NK-like T,CTL,41623.73418
+CTL_Others,CTL,26792.15897
+CTL_T helper,CTL,124883.6563
+CTL_T other,CTL,96969.96094
+CTL_T reg,CTL,32311.18876
+Dendritic cell_NK cell,Dendritic cell,52120.8595
+Dendritic cell_Others,Dendritic cell,75486.07514
+Dendritic cell_T helper,Dendritic cell,25790.04418
+Dendritic cell_T other,Dendritic cell,26271.07229
+Macrophage_B cell,Macrophage,37491.32444
+Macrophage_CTL,Macrophage,101434.2664
+Macrophage_NK cell,Macrophage,29227.484
+Macrophage_NK-like T,Macrophage,38890.53333
+Macrophage_Others,Macrophage,29617.78426
+Macrophage_T helper,Macrophage,108694.4692
+Macrophage_T other,Macrophage,113922.7838
+Macrophage_T reg,Macrophage,25748.52569
+NK cell_CTL,NK cell,36424.18852
+NK cell_Dendritic cell,NK cell,52120.8595
+NK cell_Macrophage,NK cell,29227.484
+NK cell_NK-like T,NK cell,28072.43162
+NK cell_Others,NK cell,50630.84144
+NK cell_T helper,NK cell,34305.0449
+NK-like T_CTL,NK-like T,41623.73418
+NK-like T_Macrophage,NK-like T,38890.53333
+NK-like T_NK cell,NK-like T,28072.43162
+NK-like T_Others,NK-like T,34667.76564
+NK-like T_T helper,NK-like T,40092.72034
+NK-like T_T other,NK-like T,35054.55745
+T helper_B cell,T helper,59172.24215
+T helper_CTL,T helper,124883.6563
+T helper_Macrophage,T helper,108694.4692
+T helper_NK cell,T helper,34305.0449
+T helper_NK-like T,T helper,40092.72034
+T helper_Others,T helper,29227.09582
+T helper_T other,T helper,117484.9844
+T helper_T reg,T helper,36325.872
+T other_B cell,T other,36119.13004
+T other_CTL,T other,96969.96094
+T other_Dendritic cell,T other,26271.07229
+T other_Macrophage,T other,113922.7838
+T other_NK-like T,T other,35054.55745
+T other_Others,T other,54491.31335
+T other_T helper,T other,117484.9844
+T reg_CTL,T reg,32311.18876
+T reg_Macrophage,T reg,25748.52569
+T reg_Others,T reg,67888.0292
+T reg_T helper,T reg,36325.872
+Neutrophil_Others,Neutrophil,38602.52
