@@ -112,7 +112,7 @@ It takes only 1 second to visualize the macrophage colonies on an image. (Comput
 
 
 
-![Fig 2](./img/Fig 2.jpg)
+<img src="./img/Fig 2.jpg" alt="Fig 2" style="zoom:100%;" />
 
 - <center>Fig2 : Macrophage colonies (left) & SCLA-A cancer cell colonies (right)</center>
 
@@ -130,7 +130,7 @@ Rscript Subburst_Chart.R
 
 
 
-![Fig 3](./img/Fig 3.jpg)
+<img src="./img/Fig 3.jpg" alt="Fig 3" style="zoom:100%;" />
 
 <center>Fig3 : The interaction intensity in different immune celltypes</center>
 
