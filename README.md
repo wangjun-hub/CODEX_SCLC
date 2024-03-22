@@ -2,7 +2,7 @@
 
 
 
-<br><br>
+<br>
 
 <img src="./img/Fig 1.jpg" alt="Fig 1" style="zoom:100%;" />
 
@@ -89,6 +89,14 @@ python Colony_recognition.py "../data"
 ```
 
 It takes approximately 20 seconds to identify the contours of all cell types on an image of approximately 40000 cells. (Computing machine: Macbook Air  M1 core)
+
+<br>
+
+Morphological expansion was used in colony contour recognition, with an expansion length of approximately 3 cell diameters **[line 150]**. You can modify it based on the actual data situation to meet personalized analysis requirements.
+
+For more information, please refer to https://github.com/opencv/opencv-python
+
+<br>
 
 <br>
 
