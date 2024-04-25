@@ -16,60 +16,6 @@ This repository includes  codes and data example used in the 'Spatial evolution 
 
 <br>
 
-#### The folder structure is as follows:
-
-**.**
-
-├── README.md
-
-├── **data**
-
-│  ├── **1.2_E2**
-
-│  ├── **1.2_F3**
-
-│  ├── **1.5_B2**
-
-│  └── Subburst_Chart_data.csv
-
-├── **img**
-
-│  ├── **Fig 1.jpg**
-
-│  ├── **Fig 2.jpg**
-
-│  └── **Fig 3.jpg**
-
-├── requirements.txt
-
-├── **result**
-
-│  ├── **1.2_E2**
-
-│  ├── **1.2_F3**
-
-│  ├── **1.5_B2**
-
-│  ├── Subburst_Chart.html
-
-│  └── **Subburst_Chart_files**
-
-└── **script**
-
-  ├── Code_for_genomic_correlation.R
-
-  ├── Colony_NK-like_T_show.py
-
-  ├── Colony_SCLC-A_show.py
-
-  ├── Colony_macrophage_show.py
-
-  ├── Colony_recognition.py
-
-  └── Subburst_Chart.R
-
-<br>
-
 <br>
 
 
