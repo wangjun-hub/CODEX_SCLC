@@ -11,15 +11,12 @@
 <center>Fig1 : Schematic diagram of ColonyMAP algorithm</center>
 
 <br>
+<br>
+
 
 This repository includes  codes and data example used in the 'Integrative Spatial Analysis Reveals Tumor Heterogeneity and Immune Colony Niche Related to Clinical-outcomes in Small Cell Lung Cancer' paper.
 
 <br>
-
-
-
-
-<br><br>
 
 <br>
 
