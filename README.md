@@ -1,4 +1,4 @@
-# ColonyMAP: A spatial cell colony analysis algorithm
+# ColonyMap: A spatial cell colony analysis algorithm
 
 
 
@@ -8,7 +8,7 @@
 
 
 
-<center>Fig1 : Schematic diagram of ColonyMAP algorithm</center>
+<center>Fig1 : Schematic diagram of ColonyMap algorithm</center>
 
 <br>
 <br>
