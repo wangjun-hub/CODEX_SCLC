@@ -232,7 +232,7 @@ Rscript Subburst_Chart.R
 
 # Data
 
-To be supplemented
+All data have been uploaded to the GSA (https://ngdc.cncb.ac.cn/gsa/) and Zenodo (https://zenodo.org/) and will be available for download upon acceptance for publication.
 
 
 
