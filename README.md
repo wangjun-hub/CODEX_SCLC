@@ -240,5 +240,5 @@ All data have been uploaded to the GSA (https://ngdc.cncb.ac.cn/gsa/) and Zenodo
 
 # Citation
 
-To be supplemented
+**Chen, Haiquan et al. “Integrative spatial analysis reveals tumor heterogeneity and immune colony niche related to clinical outcomes in small cell lung cancer.” Cancer cell, S1535-6108(25)00030-3. 14 Feb. 2025, doi:10.1016/j.ccell.2025.01.012**
 
